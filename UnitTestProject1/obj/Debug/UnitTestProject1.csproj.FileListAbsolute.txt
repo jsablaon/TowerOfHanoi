@@ -1,0 +1,16 @@
+C:\Users\Public\Documents\vs\sourceCode\TowerOfHanoi\TowerOfHanoiSol\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Public\Documents\vs\sourceCode\TowerOfHanoi\TowerOfHanoiSol\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Public\Documents\vs\sourceCode\TowerOfHanoi\TowerOfHanoiSol\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Public\Documents\vs\sourceCode\TowerOfHanoi\TowerOfHanoiSol\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Public\Documents\vs\sourceCode\TowerOfHanoi\TowerOfHanoiSol\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Public\Documents\vs\sourceCode\TowerOfHanoi\TowerOfHanoiSol\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Public\Documents\vs\sourceCode\TowerOfHanoi\TowerOfHanoiSol\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Public\Documents\vs\sourceCode\TowerOfHanoi\TowerOfHanoiSol\UnitTestProject1\bin\Debug\TowerOfHanoi.exe
+C:\Users\Public\Documents\vs\sourceCode\TowerOfHanoi\TowerOfHanoiSol\UnitTestProject1\bin\Debug\TowerOfHanoi.pdb
+C:\Users\Public\Documents\vs\sourceCode\TowerOfHanoi\TowerOfHanoiSol\UnitTestProject1\bin\Debug\TowerOfHanoi.exe.config
+C:\Users\Public\Documents\vs\sourceCode\TowerOfHanoi\TowerOfHanoiSol\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Public\Documents\vs\sourceCode\TowerOfHanoi\TowerOfHanoiSol\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Public\Documents\vs\sourceCode\TowerOfHanoi\TowerOfHanoiSol\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\Public\Documents\vs\sourceCode\TowerOfHanoi\TowerOfHanoiSol\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\Public\Documents\vs\sourceCode\TowerOfHanoi\TowerOfHanoiSol\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Public\Documents\vs\sourceCode\TowerOfHanoi\TowerOfHanoiSol\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

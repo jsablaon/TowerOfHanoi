@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerOfHanoi", "TowerOfHanoi\TowerOfHanoi.csproj", "{D7433919-5C84-47FE-825E-5E44AA3044E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{F20DAEE8-60BA-471B-85EF-28E545298FDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7433919-5C84-47FE-825E-5E44AA3044E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7433919-5C84-47FE-825E-5E44AA3044E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7433919-5C84-47FE-825E-5E44AA3044E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7433919-5C84-47FE-825E-5E44AA3044E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F20DAEE8-60BA-471B-85EF-28E545298FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F20DAEE8-60BA-471B-85EF-28E545298FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F20DAEE8-60BA-471B-85EF-28E545298FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F20DAEE8-60BA-471B-85EF-28E545298FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9347A8A-A035-4DBC-9587-E632A47091F4}
+	EndGlobalSection
+EndGlobal
